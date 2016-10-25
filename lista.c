@@ -79,4 +79,3 @@ int main(void){
     //insira seu codigo aqui
     return 0;
 }
-//Este resumo foi feito por Giovanne Lucas Dias Pereira Mariano e pode ser utilizado/divulgado livremente.
